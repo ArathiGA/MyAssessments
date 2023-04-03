@@ -125,7 +125,7 @@ p{
   margin: 10px 10px;
   padding: 5px;
   max-height: 100%;
-  /* overflow-y: auto;*/
+   overflow-y: auto;
   
 }
 
@@ -141,6 +141,7 @@ p{
       height:30%;
       flex-grow: 3;
       background-color: white;
+      overflow: auto;
       }
 .content p{
       color:black;
